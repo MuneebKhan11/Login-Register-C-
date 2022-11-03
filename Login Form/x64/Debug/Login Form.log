@@ -1,0 +1,11 @@
+﻿  LoginForm.cpp
+C:\Users\munee\source\repos\Login Form\Login Form\LoginForm.h(231,21): warning C4101: 'e': unreferenced local variable
+  Program.cpp
+C:\Users\munee\source\repos\Login Form\Login Form\LoginForm.h(231,21): warning C4101: 'e': unreferenced local variable
+C:\Users\munee\source\repos\Login Form\Login Form\RegisterForm.h(330,21): warning C4101: 'ex': unreferenced local variable
+C:\Users\munee\source\repos\Login Form\Login Form\Program.cpp(10,1): warning C4829: Possibly incorrect parameters to function main. Consider 'int main(Platform::Array<Platform::String^>^ argv)'
+  RegisterForm.cpp
+C:\Users\munee\source\repos\Login Form\Login Form\RegisterForm.h(330,21): warning C4101: 'ex': unreferenced local variable
+  Generating Code...
+  LoginForm.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  Login Form.vcxproj -> C:\Users\munee\source\repos\Login Form\x64\Debug\Login Form.exe

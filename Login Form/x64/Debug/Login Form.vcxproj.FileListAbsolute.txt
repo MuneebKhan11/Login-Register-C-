@@ -1,0 +1,6 @@
+C:\Users\munee\source\repos\Login Form\Login Form\x64\Debug\Login Form.vcxproj.AssemblyReference.cache
+C:\Users\munee\source\repos\Login Form\Login Form\x64\Debug\Login Form.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\munee\source\repos\Login Form\Login Form\x64\Debug\LoginForm.LoginForm.resources
+C:\Users\munee\source\repos\Login Form\Login Form\x64\Debug\LoginForm.MainForm.resources
+C:\Users\munee\source\repos\Login Form\Login Form\x64\Debug\LoginForm.RegisterForm.resources
+C:\Users\munee\source\repos\Login Form\Login Form\x64\Debug\Login Form.vcxproj.GenerateResource.cache
